@@ -1,0 +1,13 @@
+language,strategy,base_strategy,final_tau,n_folds,n_folds_agreeing_with_final,tau_min,tau_max,tau_mode,spread,per_fold_taus
+c_cpp,Weighted Voting,weighted_fire_specificity_silence_sensitivity,0.9,5,4,0.8,0.9,0.9,0.1,"0.8,0.9,0.9,0.9,0.9"
+c_cpp,BKS,bks,0.1,5,5,0.1,0.1,0.1,0.0,"0.1,0.1,0.1,0.1,0.1"
+c_cpp,DST Dempster,dst_dempster_fire_specificity_silence_sensitivity,0.4,5,5,0.4,0.4,0.4,0.0,"0.4,0.4,0.4,0.4,0.4"
+c_cpp,Decision Tree,decision_tree,0.5,5,5,0.5,0.5,0.5,0.0,"0.5,0.5,0.5,0.5,0.5"
+c_cpp,DST PCR6,dst_pcr6_fire_specificity_silence_sensitivity,0.4,5,5,0.4,0.4,0.4,0.0,"0.4,0.4,0.4,0.4,0.4"
+c_cpp,DST Yager,dst_yager_fire_specificity_silence_sensitivity,0.4,5,5,0.4,0.4,0.4,0.0,"0.4,0.4,0.4,0.4,0.4"
+c_cpp,Logistic Interactions,logistic_interactions,0.5,5,5,0.5,0.5,0.5,0.0,"0.5,0.5,0.5,0.5,0.5"
+c_cpp,Gradient Boosting,gradient_boosting,0.5,5,5,0.5,0.5,0.5,0.0,"0.5,0.5,0.5,0.5,0.5"
+c_cpp,Logistic Regression,logistic_regression,0.5,5,5,0.5,0.5,0.5,0.0,"0.5,0.5,0.5,0.5,0.5"
+c_cpp,Naive Bayes,naive_bayes,0.1,5,5,0.1,0.1,0.1,0.0,"0.1,0.1,0.1,0.1,0.1"
+c_cpp,Random Forest,random_forest,0.5,5,5,0.5,0.5,0.5,0.0,"0.5,0.5,0.5,0.5,0.5"
+c_cpp,XGBoost,xgboost,0.5,5,5,0.5,0.5,0.5,0.0,"0.5,0.5,0.5,0.5,0.5"

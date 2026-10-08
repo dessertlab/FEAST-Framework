@@ -1,0 +1,25 @@
+{
+  "any_tool_adds_signal": true,
+  "auc_all_tools": 0.5464880287493448,
+  "auc_best_single": 0.5388420704530038,
+  "auc_gain_full_ensemble": 0.00764595829634096,
+  "best_tool_by_auc": "flawfinder",
+  "detection_best_tool_recall": 0.37243532560214093,
+  "detection_or_recall": 0.4244181331603276,
+  "detection_recall_headroom": 0.05198280755818668,
+  "family_best_tool": "flawfinder",
+  "family_best_tool_recall": 0.19225822511720533,
+  "family_or_recall": 0.20101232211757872,
+  "family_recall_headroom": 0.008754097000373384,
+  "language": "c_cpp",
+  "level": "pillar_child",
+  "n_families": 28,
+  "tools": [
+    "codeql",
+    "cppcheck",
+    "flawfinder",
+    "ikos",
+    "joern",
+    "semgrep"
+  ]
+}

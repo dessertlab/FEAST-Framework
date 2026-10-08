@@ -1,0 +1,356 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="3330" viewBox="0 0 960 3330">
+<style>text{font-family:Arial,sans-serif;font-size:12px}.t{font-size:16px;font-weight:700}.ax{stroke:#888;stroke-width:1}.bar{fill:#3568a8}.v{fill:#222}</style>
+<text class="t" x="0" y="20">pr_auc (support-weighted)</text>
+<line class="ax" x1="409" y1="34" x2="409" y2="3320"/>
+<text x="0" y="57">random_forest_tau_0_8</text>
+<rect class="bar" x="409" y="42" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="57">0.111</text>
+<text x="0" y="85">random_forest_tau_0_7</text>
+<rect class="bar" x="409" y="70" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="85">0.111</text>
+<text x="0" y="113">random_forest_tau_0_6</text>
+<rect class="bar" x="409" y="98" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="113">0.111</text>
+<text x="0" y="141">random_forest_tau_0_5</text>
+<rect class="bar" x="409" y="126" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="141">0.111</text>
+<text x="0" y="169">random_forest_tau_0_4</text>
+<rect class="bar" x="409" y="154" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="169">0.111</text>
+<text x="0" y="197">random_forest_tau_0_9</text>
+<rect class="bar" x="409" y="182" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="197">0.111</text>
+<text x="0" y="225">random_forest_tau_0_3</text>
+<rect class="bar" x="409" y="210" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="225">0.111</text>
+<text x="0" y="253">random_forest_tau_0_1</text>
+<rect class="bar" x="409" y="238" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="253">0.111</text>
+<text x="0" y="281">random_forest_tau_0_2</text>
+<rect class="bar" x="409" y="266" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="281">0.111</text>
+<text x="0" y="309">gradient_boosting_tau_0_4</text>
+<rect class="bar" x="409" y="294" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="309">0.111</text>
+<text x="0" y="337">gradient_boosting_tau_0_5</text>
+<rect class="bar" x="409" y="322" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="337">0.111</text>
+<text x="0" y="365">gradient_boosting_tau_0_3</text>
+<rect class="bar" x="409" y="350" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="365">0.111</text>
+<text x="0" y="393">gradient_boosting_tau_0_7</text>
+<rect class="bar" x="409" y="378" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="393">0.111</text>
+<text x="0" y="421">gradient_boosting_tau_0_6</text>
+<rect class="bar" x="409" y="406" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="421">0.111</text>
+<text x="0" y="449">gradient_boosting_tau_0_1</text>
+<rect class="bar" x="409" y="434" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="449">0.111</text>
+<text x="0" y="477">gradient_boosting_tau_0_2</text>
+<rect class="bar" x="409" y="462" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="477">0.111</text>
+<text x="0" y="505">gradient_boosting_tau_0_8</text>
+<rect class="bar" x="409" y="490" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="505">0.111</text>
+<text x="0" y="533">gradient_boosting_tau_0_9</text>
+<rect class="bar" x="409" y="518" width="51" height="19" rx="2"/>
+<text class="v" x="880" y="533">0.111</text>
+<text x="0" y="561">xgboost_tau_0_1</text>
+<rect class="bar" x="409" y="546" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="561">0.111</text>
+<text x="0" y="589">xgboost_tau_0_4</text>
+<rect class="bar" x="409" y="574" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="589">0.111</text>
+<text x="0" y="617">xgboost_tau_0_5</text>
+<rect class="bar" x="409" y="602" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="617">0.111</text>
+<text x="0" y="645">xgboost_tau_0_6</text>
+<rect class="bar" x="409" y="630" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="645">0.111</text>
+<text x="0" y="673">xgboost_tau_0_3</text>
+<rect class="bar" x="409" y="658" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="673">0.111</text>
+<text x="0" y="701">xgboost_tau_0_9</text>
+<rect class="bar" x="409" y="686" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="701">0.111</text>
+<text x="0" y="729">xgboost_tau_0_7</text>
+<rect class="bar" x="409" y="714" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="729">0.111</text>
+<text x="0" y="757">xgboost_tau_0_2</text>
+<rect class="bar" x="409" y="742" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="757">0.111</text>
+<text x="0" y="785">xgboost_tau_0_8</text>
+<rect class="bar" x="409" y="770" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="785">0.111</text>
+<text x="0" y="813">logistic_interactions_tau_0_6</text>
+<rect class="bar" x="409" y="798" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="813">0.110</text>
+<text x="0" y="841">logistic_interactions_tau_0_2</text>
+<rect class="bar" x="409" y="826" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="841">0.110</text>
+<text x="0" y="869">logistic_interactions_tau_0_5</text>
+<rect class="bar" x="409" y="854" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="869">0.110</text>
+<text x="0" y="897">logistic_interactions_tau_0_8</text>
+<rect class="bar" x="409" y="882" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="897">0.110</text>
+<text x="0" y="925">logistic_interactions_tau_0_7</text>
+<rect class="bar" x="409" y="910" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="925">0.110</text>
+<text x="0" y="953">logistic_interactions_tau_0_9</text>
+<rect class="bar" x="409" y="938" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="953">0.110</text>
+<text x="0" y="981">logistic_interactions_tau_0_1</text>
+<rect class="bar" x="409" y="966" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="981">0.110</text>
+<text x="0" y="1009">logistic_interactions_tau_0_3</text>
+<rect class="bar" x="409" y="994" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1009">0.110</text>
+<text x="0" y="1037">logistic_interactions_tau_0_4</text>
+<rect class="bar" x="409" y="1022" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1037">0.110</text>
+<text x="0" y="1065">bks_tau_0_2</text>
+<rect class="bar" x="409" y="1050" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1065">0.110</text>
+<text x="0" y="1093">bks_tau_0_6</text>
+<rect class="bar" x="409" y="1078" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1093">0.110</text>
+<text x="0" y="1121">bks_tau_0_1</text>
+<rect class="bar" x="409" y="1106" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1121">0.110</text>
+<text x="0" y="1149">bks_tau_0_3</text>
+<rect class="bar" x="409" y="1134" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1149">0.110</text>
+<text x="0" y="1177">bks_tau_0_9</text>
+<rect class="bar" x="409" y="1162" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1177">0.110</text>
+<text x="0" y="1205">bks_tau_0_8</text>
+<rect class="bar" x="409" y="1190" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1205">0.110</text>
+<text x="0" y="1233">bks_tau_0_5</text>
+<rect class="bar" x="409" y="1218" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1233">0.110</text>
+<text x="0" y="1261">bks_tau_0_7</text>
+<rect class="bar" x="409" y="1246" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1261">0.110</text>
+<text x="0" y="1289">bks_tau_0_4</text>
+<rect class="bar" x="409" y="1274" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1289">0.110</text>
+<text x="0" y="1317">naive_bayes_tau_0_8</text>
+<rect class="bar" x="409" y="1302" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1317">0.110</text>
+<text x="0" y="1345">naive_bayes_tau_0_7</text>
+<rect class="bar" x="409" y="1330" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1345">0.110</text>
+<text x="0" y="1373">naive_bayes_tau_0_6</text>
+<rect class="bar" x="409" y="1358" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1373">0.110</text>
+<text x="0" y="1401">naive_bayes_tau_0_5</text>
+<rect class="bar" x="409" y="1386" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1401">0.110</text>
+<text x="0" y="1429">naive_bayes_tau_0_4</text>
+<rect class="bar" x="409" y="1414" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1429">0.110</text>
+<text x="0" y="1457">naive_bayes_tau_0_3</text>
+<rect class="bar" x="409" y="1442" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1457">0.110</text>
+<text x="0" y="1485">naive_bayes_tau_0_2</text>
+<rect class="bar" x="409" y="1470" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1485">0.110</text>
+<text x="0" y="1513">naive_bayes_tau_0_1</text>
+<rect class="bar" x="409" y="1498" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1513">0.110</text>
+<text x="0" y="1541">naive_bayes_tau_0_9</text>
+<rect class="bar" x="409" y="1526" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1541">0.110</text>
+<text x="0" y="1569">logistic_regression_tau_0_3</text>
+<rect class="bar" x="409" y="1554" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1569">0.109</text>
+<text x="0" y="1597">logistic_regression_tau_0_1</text>
+<rect class="bar" x="409" y="1582" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1597">0.109</text>
+<text x="0" y="1625">logistic_regression_tau_0_6</text>
+<rect class="bar" x="409" y="1610" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1625">0.109</text>
+<text x="0" y="1653">logistic_regression_tau_0_7</text>
+<rect class="bar" x="409" y="1638" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1653">0.109</text>
+<text x="0" y="1681">logistic_regression_tau_0_4</text>
+<rect class="bar" x="409" y="1666" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1681">0.109</text>
+<text x="0" y="1709">logistic_regression_tau_0_8</text>
+<rect class="bar" x="409" y="1694" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1709">0.109</text>
+<text x="0" y="1737">logistic_regression_tau_0_2</text>
+<rect class="bar" x="409" y="1722" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1737">0.109</text>
+<text x="0" y="1765">logistic_regression_tau_0_5</text>
+<rect class="bar" x="409" y="1750" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1765">0.109</text>
+<text x="0" y="1793">logistic_regression_tau_0_9</text>
+<rect class="bar" x="409" y="1778" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1793">0.109</text>
+<text x="0" y="1821">decision_tree_tau_0_4</text>
+<rect class="bar" x="409" y="1806" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1821">0.109</text>
+<text x="0" y="1849">decision_tree_tau_0_8</text>
+<rect class="bar" x="409" y="1834" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1849">0.109</text>
+<text x="0" y="1877">decision_tree_tau_0_9</text>
+<rect class="bar" x="409" y="1862" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1877">0.109</text>
+<text x="0" y="1905">decision_tree_tau_0_3</text>
+<rect class="bar" x="409" y="1890" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1905">0.109</text>
+<text x="0" y="1933">decision_tree_tau_0_2</text>
+<rect class="bar" x="409" y="1918" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1933">0.109</text>
+<text x="0" y="1961">decision_tree_tau_0_1</text>
+<rect class="bar" x="409" y="1946" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1961">0.109</text>
+<text x="0" y="1989">decision_tree_tau_0_6</text>
+<rect class="bar" x="409" y="1974" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="1989">0.109</text>
+<text x="0" y="2017">decision_tree_tau_0_7</text>
+<rect class="bar" x="409" y="2002" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="2017">0.109</text>
+<text x="0" y="2045">decision_tree_tau_0_5</text>
+<rect class="bar" x="409" y="2030" width="50" height="19" rx="2"/>
+<text class="v" x="880" y="2045">0.109</text>
+<text x="0" y="2073">dst_dempster_fire_specificity_silence_sensitivity_tau_0_4</text>
+<rect class="bar" x="409" y="2058" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2073">0.108</text>
+<text x="0" y="2101">dst_dempster_fire_specificity_silence_sensitivity_tau_0_3</text>
+<rect class="bar" x="409" y="2086" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2101">0.108</text>
+<text x="0" y="2129">dst_dempster_fire_specificity_silence_sensitivity_tau_0_5</text>
+<rect class="bar" x="409" y="2114" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2129">0.108</text>
+<text x="0" y="2157">dst_dempster_fire_specificity_silence_sensitivity_tau_0_6</text>
+<rect class="bar" x="409" y="2142" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2157">0.108</text>
+<text x="0" y="2185">dst_dempster_fire_specificity_silence_sensitivity_tau_0_7</text>
+<rect class="bar" x="409" y="2170" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2185">0.108</text>
+<text x="0" y="2213">dst_dempster_fire_specificity_silence_sensitivity_tau_0_8</text>
+<rect class="bar" x="409" y="2198" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2213">0.108</text>
+<text x="0" y="2241">dst_dempster_fire_specificity_silence_sensitivity_tau_0_9</text>
+<rect class="bar" x="409" y="2226" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2241">0.108</text>
+<text x="0" y="2269">dst_dempster_fire_specificity_silence_sensitivity_tau_0_2</text>
+<rect class="bar" x="409" y="2254" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2269">0.108</text>
+<text x="0" y="2297">dst_dempster_fire_specificity_silence_sensitivity_tau_0_1</text>
+<rect class="bar" x="409" y="2282" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2297">0.108</text>
+<text x="0" y="2325">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_6</text>
+<rect class="bar" x="409" y="2310" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2325">0.108</text>
+<text x="0" y="2353">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_9</text>
+<rect class="bar" x="409" y="2338" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2353">0.108</text>
+<text x="0" y="2381">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_1</text>
+<rect class="bar" x="409" y="2366" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2381">0.108</text>
+<text x="0" y="2409">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_2</text>
+<rect class="bar" x="409" y="2394" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2409">0.108</text>
+<text x="0" y="2437">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_7</text>
+<rect class="bar" x="409" y="2422" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2437">0.108</text>
+<text x="0" y="2465">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_8</text>
+<rect class="bar" x="409" y="2450" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2465">0.108</text>
+<text x="0" y="2493">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_5</text>
+<rect class="bar" x="409" y="2478" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2493">0.108</text>
+<text x="0" y="2521">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_3</text>
+<rect class="bar" x="409" y="2506" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2521">0.108</text>
+<text x="0" y="2549">dst_pcr6_fire_specificity_silence_sensitivity_tau_0_4</text>
+<rect class="bar" x="409" y="2534" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2549">0.108</text>
+<text x="0" y="2577">dst_yager_fire_specificity_silence_sensitivity_tau_0_1</text>
+<rect class="bar" x="409" y="2562" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2577">0.107</text>
+<text x="0" y="2605">dst_yager_fire_specificity_silence_sensitivity_tau_0_2</text>
+<rect class="bar" x="409" y="2590" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2605">0.107</text>
+<text x="0" y="2633">dst_yager_fire_specificity_silence_sensitivity_tau_0_9</text>
+<rect class="bar" x="409" y="2618" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2633">0.107</text>
+<text x="0" y="2661">dst_yager_fire_specificity_silence_sensitivity_tau_0_6</text>
+<rect class="bar" x="409" y="2646" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2661">0.107</text>
+<text x="0" y="2689">dst_yager_fire_specificity_silence_sensitivity_tau_0_7</text>
+<rect class="bar" x="409" y="2674" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2689">0.107</text>
+<text x="0" y="2717">dst_yager_fire_specificity_silence_sensitivity_tau_0_8</text>
+<rect class="bar" x="409" y="2702" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2717">0.107</text>
+<text x="0" y="2745">dst_yager_fire_specificity_silence_sensitivity_tau_0_3</text>
+<rect class="bar" x="409" y="2730" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2745">0.107</text>
+<text x="0" y="2773">dst_yager_fire_specificity_silence_sensitivity_tau_0_4</text>
+<rect class="bar" x="409" y="2758" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2773">0.107</text>
+<text x="0" y="2801">dst_yager_fire_specificity_silence_sensitivity_tau_0_5</text>
+<rect class="bar" x="409" y="2786" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2801">0.107</text>
+<text x="0" y="2829">weighted_fire_specificity_silence_sensitivity_tau_0_4</text>
+<rect class="bar" x="409" y="2814" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2829">0.107</text>
+<text x="0" y="2857">weighted_fire_specificity_silence_sensitivity_tau_0_5</text>
+<rect class="bar" x="409" y="2842" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2857">0.107</text>
+<text x="0" y="2885">weighted_fire_specificity_silence_sensitivity_tau_0_2</text>
+<rect class="bar" x="409" y="2870" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2885">0.107</text>
+<text x="0" y="2913">weighted_fire_specificity_silence_sensitivity_tau_0_8</text>
+<rect class="bar" x="409" y="2898" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2913">0.107</text>
+<text x="0" y="2941">weighted_fire_specificity_silence_sensitivity_tau_0_6</text>
+<rect class="bar" x="409" y="2926" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2941">0.107</text>
+<text x="0" y="2969">weighted_fire_specificity_silence_sensitivity_tau_0_7</text>
+<rect class="bar" x="409" y="2954" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2969">0.107</text>
+<text x="0" y="2997">weighted_fire_specificity_silence_sensitivity_tau_0_1</text>
+<rect class="bar" x="409" y="2982" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="2997">0.107</text>
+<text x="0" y="3025">weighted_fire_specificity_silence_sensitivity_tau_0_3</text>
+<rect class="bar" x="409" y="3010" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="3025">0.107</text>
+<text x="0" y="3053">weighted_fire_specificity_silence_sensitivity_tau_0_9</text>
+<rect class="bar" x="409" y="3038" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="3053">0.107</text>
+<text x="0" y="3081">traditional_3_of_6</text>
+<rect class="bar" x="409" y="3066" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="3081">0.107</text>
+<text x="0" y="3109">traditional_2_of_6</text>
+<rect class="bar" x="409" y="3094" width="49" height="19" rx="2"/>
+<text class="v" x="880" y="3109">0.107</text>
+<text x="0" y="3137">or_1_of_6</text>
+<rect class="bar" x="409" y="3122" width="48" height="19" rx="2"/>
+<text class="v" x="880" y="3137">0.105</text>
+<text x="0" y="3165">tool:flawfinder</text>
+<rect class="bar" x="409" y="3150" width="48" height="19" rx="2"/>
+<text class="v" x="880" y="3165">0.104</text>
+<text x="0" y="3193">tool:ikos</text>
+<rect class="bar" x="409" y="3178" width="43" height="19" rx="2"/>
+<text class="v" x="880" y="3193">0.095</text>
+<text x="0" y="3221">tool:codeql</text>
+<rect class="bar" x="409" y="3206" width="42" height="19" rx="2"/>
+<text class="v" x="880" y="3221">0.093</text>
+<text x="0" y="3249">tool:cppcheck</text>
+<rect class="bar" x="409" y="3234" width="42" height="19" rx="2"/>
+<text class="v" x="880" y="3249">0.093</text>
+<text x="0" y="3277">tool:semgrep</text>
+<rect class="bar" x="409" y="3262" width="42" height="19" rx="2"/>
+<text class="v" x="880" y="3277">0.092</text>
+<text x="0" y="3305">tool:joern</text>
+<rect class="bar" x="409" y="3290" width="42" height="19" rx="2"/>
+<text class="v" x="880" y="3305">0.092</text>
+</svg>

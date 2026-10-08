@@ -1,0 +1,37 @@
+language,strategy,base_strategy,tau_minus,status_minus,mean_difference_minus,tau_selected,status_selected,mean_difference_selected,p_value_selected,tau_plus,status_plus,mean_difference_plus,stable
+c_cpp,Weighted Voting,weighted_fire_specificity_silence_sensitivity,0.8,incremento_statistico,0.04098044655376058,0.9,incremento_statistico,0.0412801363502923,0.0021622326608016,,,,True
+c_cpp,DST Dempster,dst_dempster_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.03252706139652064,0.4,incremento_statistico,0.0466915236502796,0.0003380501003358,0.5,incremento_statistico,0.04260082824390307,True
+c_cpp,DST PCR6,dst_pcr6_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.03252706139652064,0.4,incremento_statistico,0.0466915236502796,0.0003380501003358,0.5,incremento_statistico,0.04260082824390307,True
+c_cpp,DST Yager,dst_yager_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.03252706139652064,0.4,incremento_statistico,0.0466915236502796,0.0003380501003358,0.5,incremento_statistico,0.04260082824390307,True
+c_cpp,Naive Bayes,naive_bayes,,,,0.1,inconcludente,0.0282096659813316,0.2626182904425206,0.2,inconcludente,0.02609123566963298,True
+c_cpp,BKS,bks,,,,0.1,inconcludente,0.0281384025013369,0.2626182904425206,0.2,inconcludente,0.02600066782336592,True
+c_cpp,Logistic Regression,logistic_regression,0.4,incremento_statistico,0.032650735395814055,0.5,incremento_statistico,0.0452876973799808,0.0005385174873341,0.6,inconcludente,0.02536703578046625,False
+c_cpp,Logistic Interactions,logistic_interactions,0.4,incremento_statistico,0.0326530977531861,0.5,incremento_statistico,0.0454760684681259,0.0005385174873341,0.6,inconcludente,0.02544280426221262,False
+c_cpp,Decision Tree,decision_tree,0.4,incremento_statistico,0.032649964669811696,0.5,incremento_statistico,0.0455925592038882,8.20159912109375e-05,0.6,inconcludente,0.024222468345769195,False
+c_cpp,Random Forest,random_forest,0.4,incremento_statistico,0.03265233201969077,0.5,incremento_statistico,0.0459325971825773,0.0005385174873341,0.6,inconcludente,0.02526366557321789,False
+c_cpp,Gradient Boosting,gradient_boosting,0.4,incremento_statistico,0.03264887231083567,0.5,incremento_statistico,0.0451526608775243,0.0001049041748046,0.6,inconcludente,0.025510558655427833,False
+c_cpp,XGBoost,xgboost,0.4,incremento_statistico,0.03265329465033881,0.5,incremento_statistico,0.0437060910448863,0.0008634758631167,0.6,inconcludente,0.024915349575158254,False
+java,Weighted Voting,weighted_fire_specificity_silence_sensitivity,0.5,incremento_statistico,0.11156655904224291,0.6,incremento_statistico,0.1192130625579423,0.0014737808438751,0.7,incremento_statistico,0.11661428874242234,True
+java,DST Dempster,dst_dempster_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.09646936330591109,0.4,incremento_statistico,0.1393834169706345,0.0006103515625,0.5,incremento_statistico,0.11560713254463156,True
+java,DST PCR6,dst_pcr6_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.09646936330591109,0.4,incremento_statistico,0.1393834169706345,0.0006103515625,0.5,incremento_statistico,0.11560713254463156,True
+java,DST Yager,dst_yager_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.09646936330591109,0.4,incremento_statistico,0.1393834169706345,0.0006103515625,0.5,incremento_statistico,0.11560713254463156,True
+java,Naive Bayes,naive_bayes,,,,0.1,incremento_statistico,0.1231817199039391,0.0076457616929916,0.2,incremento_statistico,0.10772832575257917,True
+java,BKS,bks,,,,0.1,incremento_statistico,0.1324939279296183,0.0044390926567921,0.2,incremento_statistico,0.1168160010991853,True
+java,Logistic Regression,logistic_regression,0.4,incremento_statistico,0.11316032552281938,0.5,incremento_statistico,0.1451872398113819,0.0012250235420688,0.6,incremento_statistico,0.11610546884319341,True
+java,Logistic Interactions,logistic_interactions,0.4,incremento_statistico,0.12044283455016208,0.5,incremento_statistico,0.1468588655519886,0.0009815397525216,0.6,incremento_statistico,0.1163136182295941,True
+java,Decision Tree,decision_tree,0.4,incremento_statistico,0.12051848466836539,0.5,incremento_statistico,0.1458647479179931,6.103515625e-05,0.6,incremento_statistico,0.11654070245667833,True
+java,Random Forest,random_forest,0.4,incremento_statistico,0.12616610038374487,0.5,incremento_statistico,0.1485680159605208,6.103515625e-05,0.6,incremento_statistico,0.11654070245667833,True
+java,Gradient Boosting,gradient_boosting,0.4,incremento_statistico,0.12044527121576167,0.5,incremento_statistico,0.1459513139436487,6.103515625e-05,0.6,incremento_statistico,0.11646505233847503,True
+java,XGBoost,xgboost,0.4,incremento_statistico,0.10574807077656084,0.5,incremento_statistico,0.1432769836015706,0.0009815397525216,0.6,incremento_statistico,0.11553229827739919,True
+python,Weighted Voting,weighted_fire_specificity_silence_sensitivity,0.4,incremento_statistico,0.0825271802674674,0.5,incremento_statistico,0.087461630511164,0.0057715890441035,0.6,incremento_statistico,0.0855370023859121,True
+python,DST Dempster,dst_dempster_fire_specificity_silence_sensitivity,0.4,incremento_statistico,0.07596354714164548,0.5,incremento_statistico,0.0855501911779434,0.0076304147392456,0.6,incremento_statistico,0.0825271802674674,True
+python,DST PCR6,dst_pcr6_fire_specificity_silence_sensitivity,0.6,incremento_statistico,0.08746163051116403,0.7,incremento_statistico,0.0888874675040146,0.0046494338198085,0.8,incremento_statistico,0.0855370023859121,True
+python,DST Yager,dst_yager_fire_specificity_silence_sensitivity,0.5,incremento_statistico,0.08555019117794335,0.6,incremento_statistico,0.087461630511164,0.0057715890441035,0.7,incremento_statistico,0.08585176219155083,True
+python,Naive Bayes,naive_bayes,,,,0.1,incremento_statistico,0.0852318466432856,0.0071324136993952,0.2,incremento_statistico,0.0702008323239923,True
+python,BKS,bks,,,,0.1,incremento_statistico,0.0802113054495133,0.0131036141100384,0.2,incremento_statistico,0.07438604105797561,True
+python,Logistic Regression,logistic_regression,0.4,incremento_statistico,0.0643705121599184,0.5,incremento_statistico,0.0898416038653085,0.00262451171875,0.6,incremento_statistico,0.08313022338310654,True
+python,Logistic Interactions,logistic_interactions,0.4,incremento_statistico,0.06423641830320899,0.5,incremento_statistico,0.090837524817877,0.00262451171875,0.6,incremento_statistico,0.08331018997496975,True
+python,Decision Tree,decision_tree,0.4,incremento_statistico,0.052912476839044875,0.5,incremento_statistico,0.0915681427829774,0.00262451171875,0.6,incremento_statistico,0.0835654666701295,True
+python,Random Forest,random_forest,0.4,incremento_statistico,0.05618262172808466,0.5,incremento_statistico,0.091982493568463,0.0042856952994814,0.6,incremento_statistico,0.08212565600098606,True
+python,Gradient Boosting,gradient_boosting,0.4,incremento_statistico,0.06398699924053133,0.5,incremento_statistico,0.0887113783554452,0.0052132412560994,0.6,incremento_statistico,0.08281045137166934,True
+python,XGBoost,xgboost,0.4,incremento_statistico,0.05983876038375088,0.5,incremento_statistico,0.0921616356143848,0.00335693359375,0.6,incremento_statistico,0.08145235039781869,True

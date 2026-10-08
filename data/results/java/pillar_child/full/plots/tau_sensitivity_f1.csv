@@ -1,0 +1,13 @@
+language,strategy,base_strategy,tau_minus,status_minus,mean_difference_minus,tau_selected,status_selected,mean_difference_selected,p_value_selected,tau_plus,status_plus,mean_difference_plus,stable
+java,Weighted Voting,weighted_fire_specificity_silence_sensitivity,0.5,incremento_statistico,0.11156655904224291,0.6,incremento_statistico,0.1192130625579423,0.0014737808438751,0.7,incremento_statistico,0.11661428874242234,True
+java,DST Dempster,dst_dempster_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.09646936330591109,0.4,incremento_statistico,0.1393834169706345,0.0006103515625,0.5,incremento_statistico,0.11560713254463156,True
+java,DST PCR6,dst_pcr6_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.09646936330591109,0.4,incremento_statistico,0.1393834169706345,0.0006103515625,0.5,incremento_statistico,0.11560713254463156,True
+java,DST Yager,dst_yager_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.09646936330591109,0.4,incremento_statistico,0.1393834169706345,0.0006103515625,0.5,incremento_statistico,0.11560713254463156,True
+java,Naive Bayes,naive_bayes,,,,0.1,incremento_statistico,0.1231817199039391,0.0076457616929916,0.2,incremento_statistico,0.10772832575257917,True
+java,BKS,bks,,,,0.1,incremento_statistico,0.1324939279296183,0.0044390926567921,0.2,incremento_statistico,0.1168160010991853,True
+java,Logistic Regression,logistic_regression,0.4,incremento_statistico,0.11316032552281938,0.5,incremento_statistico,0.1451872398113819,0.0012250235420688,0.6,incremento_statistico,0.11610546884319341,True
+java,Logistic Interactions,logistic_interactions,0.4,incremento_statistico,0.12044283455016208,0.5,incremento_statistico,0.1468588655519886,0.0009815397525216,0.6,incremento_statistico,0.1163136182295941,True
+java,Decision Tree,decision_tree,0.4,incremento_statistico,0.12051848466836539,0.5,incremento_statistico,0.1458647479179931,6.103515625e-05,0.6,incremento_statistico,0.11654070245667833,True
+java,Random Forest,random_forest,0.4,incremento_statistico,0.12616610038374487,0.5,incremento_statistico,0.1485680159605208,6.103515625e-05,0.6,incremento_statistico,0.11654070245667833,True
+java,Gradient Boosting,gradient_boosting,0.4,incremento_statistico,0.12044527121576167,0.5,incremento_statistico,0.1459513139436487,6.103515625e-05,0.6,incremento_statistico,0.11646505233847503,True
+java,XGBoost,xgboost,0.4,incremento_statistico,0.10574807077656084,0.5,incremento_statistico,0.1432769836015706,0.0009815397525216,0.6,incremento_statistico,0.11553229827739919,True

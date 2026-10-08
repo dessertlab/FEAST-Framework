@@ -1,0 +1,13 @@
+language,strategy,base_strategy,tau_minus,status_minus,mean_difference_minus,tau_selected,status_selected,mean_difference_selected,p_value_selected,tau_plus,status_plus,mean_difference_plus,stable
+c_cpp,Weighted Voting,weighted_fire_specificity_silence_sensitivity,0.8,incremento_statistico,0.04098044655376058,0.9,incremento_statistico,0.0412801363502923,0.0021622326608016,,,,True
+c_cpp,DST Dempster,dst_dempster_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.03252706139652064,0.4,incremento_statistico,0.0466915236502796,0.0003380501003358,0.5,incremento_statistico,0.04260082824390307,True
+c_cpp,DST PCR6,dst_pcr6_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.03252706139652064,0.4,incremento_statistico,0.0466915236502796,0.0003380501003358,0.5,incremento_statistico,0.04260082824390307,True
+c_cpp,DST Yager,dst_yager_fire_specificity_silence_sensitivity,0.3,incremento_statistico,0.03252706139652064,0.4,incremento_statistico,0.0466915236502796,0.0003380501003358,0.5,incremento_statistico,0.04260082824390307,True
+c_cpp,Naive Bayes,naive_bayes,,,,0.1,inconcludente,0.0282096659813316,0.2626182904425206,0.2,inconcludente,0.02609123566963298,True
+c_cpp,BKS,bks,,,,0.1,inconcludente,0.0281384025013369,0.2626182904425206,0.2,inconcludente,0.02600066782336592,True
+c_cpp,Logistic Regression,logistic_regression,0.4,incremento_statistico,0.032650735395814055,0.5,incremento_statistico,0.0452876973799808,0.0005385174873341,0.6,inconcludente,0.02536703578046625,False
+c_cpp,Logistic Interactions,logistic_interactions,0.4,incremento_statistico,0.0326530977531861,0.5,incremento_statistico,0.0454760684681259,0.0005385174873341,0.6,inconcludente,0.02544280426221262,False
+c_cpp,Decision Tree,decision_tree,0.4,incremento_statistico,0.032649964669811696,0.5,incremento_statistico,0.0455925592038882,8.20159912109375e-05,0.6,inconcludente,0.024222468345769195,False
+c_cpp,Random Forest,random_forest,0.4,incremento_statistico,0.03265233201969077,0.5,incremento_statistico,0.0459325971825773,0.0005385174873341,0.6,inconcludente,0.02526366557321789,False
+c_cpp,Gradient Boosting,gradient_boosting,0.4,incremento_statistico,0.03264887231083567,0.5,incremento_statistico,0.0451526608775243,0.0001049041748046,0.6,inconcludente,0.025510558655427833,False
+c_cpp,XGBoost,xgboost,0.4,incremento_statistico,0.03265329465033881,0.5,incremento_statistico,0.0437060910448863,0.0008634758631167,0.6,inconcludente,0.024915349575158254,False

@@ -1,0 +1,23 @@
+{
+  "any_tool_adds_signal": true,
+  "auc_all_tools": 0.6598705028023759,
+  "auc_best_single": 0.6199595007783671,
+  "auc_gain_full_ensemble": 0.03991100202400877,
+  "best_tool_by_auc": "bandit",
+  "detection_best_tool_recall": 0.37847995545657015,
+  "detection_or_recall": 0.5623608017817372,
+  "detection_recall_headroom": 0.18388084632516705,
+  "family_best_tool": "bandit",
+  "family_best_tool_recall": 0.15312855517633675,
+  "family_or_recall": 0.25244596131968144,
+  "family_recall_headroom": 0.0993174061433447,
+  "language": "python",
+  "level": "pillar_child",
+  "n_families": 23,
+  "tools": [
+    "bandit",
+    "codeql",
+    "pylint",
+    "semgrep"
+  ]
+}

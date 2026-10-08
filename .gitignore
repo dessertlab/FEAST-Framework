@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Datasets (large binary files, downloaded separately)
+data/*
+!data/.gitkeep
+*.parquet
+*.db
+*.sqlite
+*.sqlite3
+*.json.gz
+*.csv.gz
+
+# Re-include raw/
+!data/raw/
+
+# Ignore everything inside raw/
+data/raw/*
+
+# Keep only these
+!data/raw/copilot-cwe-scenarios-dataset.zip
+!data/results/
+
+# Superpowers internal docs (planning artifacts, not repo content)
+docs/superpowers/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+*.env
+
+# Git worktrees
+.worktrees/
+
+# Claude Code project config
+.claude/

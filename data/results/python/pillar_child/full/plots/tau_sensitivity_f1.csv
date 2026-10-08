@@ -1,0 +1,13 @@
+language,strategy,base_strategy,tau_minus,status_minus,mean_difference_minus,tau_selected,status_selected,mean_difference_selected,p_value_selected,tau_plus,status_plus,mean_difference_plus,stable
+python,Weighted Voting,weighted_fire_specificity_silence_sensitivity,0.4,incremento_statistico,0.0825271802674674,0.5,incremento_statistico,0.087461630511164,0.0057715890441035,0.6,incremento_statistico,0.0855370023859121,True
+python,DST Dempster,dst_dempster_fire_specificity_silence_sensitivity,0.4,incremento_statistico,0.07596354714164548,0.5,incremento_statistico,0.0855501911779434,0.0076304147392456,0.6,incremento_statistico,0.0825271802674674,True
+python,DST PCR6,dst_pcr6_fire_specificity_silence_sensitivity,0.6,incremento_statistico,0.08746163051116403,0.7,incremento_statistico,0.0888874675040146,0.0046494338198085,0.8,incremento_statistico,0.0855370023859121,True
+python,DST Yager,dst_yager_fire_specificity_silence_sensitivity,0.5,incremento_statistico,0.08555019117794335,0.6,incremento_statistico,0.087461630511164,0.0057715890441035,0.7,incremento_statistico,0.08585176219155083,True
+python,Naive Bayes,naive_bayes,,,,0.1,incremento_statistico,0.0852318466432856,0.0071324136993952,0.2,incremento_statistico,0.0702008323239923,True
+python,BKS,bks,,,,0.1,incremento_statistico,0.0802113054495133,0.0131036141100384,0.2,incremento_statistico,0.07438604105797561,True
+python,Logistic Regression,logistic_regression,0.4,incremento_statistico,0.0643705121599184,0.5,incremento_statistico,0.0898416038653085,0.00262451171875,0.6,incremento_statistico,0.08313022338310654,True
+python,Logistic Interactions,logistic_interactions,0.4,incremento_statistico,0.06423641830320899,0.5,incremento_statistico,0.090837524817877,0.00262451171875,0.6,incremento_statistico,0.08331018997496975,True
+python,Decision Tree,decision_tree,0.4,incremento_statistico,0.052912476839044875,0.5,incremento_statistico,0.0915681427829774,0.00262451171875,0.6,incremento_statistico,0.0835654666701295,True
+python,Random Forest,random_forest,0.4,incremento_statistico,0.05618262172808466,0.5,incremento_statistico,0.091982493568463,0.0042856952994814,0.6,incremento_statistico,0.08212565600098606,True
+python,Gradient Boosting,gradient_boosting,0.4,incremento_statistico,0.06398699924053133,0.5,incremento_statistico,0.0887113783554452,0.0052132412560994,0.6,incremento_statistico,0.08281045137166934,True
+python,XGBoost,xgboost,0.4,incremento_statistico,0.05983876038375088,0.5,incremento_statistico,0.0921616356143848,0.00335693359375,0.6,incremento_statistico,0.08145235039781869,True

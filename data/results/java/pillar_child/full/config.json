@@ -1,0 +1,46 @@
+{
+  "calibration_metric_pairs": [
+    [
+      "specificity",
+      "sensitivity"
+    ]
+  ],
+  "calibration_metrics": [
+    "sensitivity",
+    "specificity"
+  ],
+  "excluded": [],
+  "language": "java",
+  "level": "pillar_child",
+  "n_splits": 5,
+  "restriction": {
+    "dropped_below_min_count": 14,
+    "dropped_unsupported": 84,
+    "families_kept": 15,
+    "families_present": 113,
+    "gt_occurrences_kept": 6689,
+    "gt_occurrences_kept_frac": 0.6992473343090111,
+    "gt_occurrences_total": 9566,
+    "min_cwe_count": 100
+  },
+  "seed": 42,
+  "tau_max": 0.9,
+  "tau_min": 0.1,
+  "taus": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ],
+  "threshold": 2,
+  "tools": [
+    "codeql",
+    "joern",
+    "semgrep"
+  ]
+}

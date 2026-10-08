@@ -1,0 +1,14 @@
+# Normalize line endings to LF on check-in (code will run on Linux servers)
+* text=auto eol=lf
+
+# Explicitly declare binary files
+*.parquet binary
+*.db      binary
+*.sqlite  binary
+*.sqlite3 binary
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.pdf     binary
+*.zip     binary
+*.gz      binary

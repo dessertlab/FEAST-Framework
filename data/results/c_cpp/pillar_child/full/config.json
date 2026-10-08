@@ -1,0 +1,49 @@
+{
+  "calibration_metric_pairs": [
+    [
+      "specificity",
+      "sensitivity"
+    ]
+  ],
+  "calibration_metrics": [
+    "sensitivity",
+    "specificity"
+  ],
+  "excluded": [],
+  "language": "c_cpp",
+  "level": "pillar_child",
+  "n_splits": 5,
+  "restriction": {
+    "dropped_below_min_count": 22,
+    "dropped_unsupported": 14,
+    "families_kept": 20,
+    "families_present": 56,
+    "gt_occurrences_kept": 23832,
+    "gt_occurrences_kept_frac": 0.9725759059745348,
+    "gt_occurrences_total": 24504,
+    "min_cwe_count": 100
+  },
+  "seed": 42,
+  "tau_max": 0.9,
+  "tau_min": 0.1,
+  "taus": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9
+  ],
+  "threshold": 2,
+  "tools": [
+    "codeql",
+    "cppcheck",
+    "flawfinder",
+    "ikos",
+    "joern",
+    "semgrep"
+  ]
+}
