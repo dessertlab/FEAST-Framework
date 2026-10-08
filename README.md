@@ -120,9 +120,9 @@ FEAST/
 
 ## Datasets
 
-25 sources organised by language and branch.
+24 sources organised by language and branch.
 
-### C/C++ — 11 sources
+### C/C++ — 10 sources
 
 | Dataset | Branch | Positives | Negatives |
 |---------|--------|-----------|-----------|
@@ -135,7 +135,6 @@ FEAST/
 | SVEN(C) | real | `func_src_before`, CWE from `vul_type` | `func_src_after` (fix-paired) |
 | Juliet(C) | synth | `*_bad.c` files | `*_good*.c` files |
 | CASTLE | synth | `vulnerable=True` | `vulnerable=False` |
-| FormAI | ai | `VULNERABLE` / ESBMC `error_type` mapped to CWE | `NON-VULNERABLE` / safe samples |
 | LLMSecEval(C) | ai | `gen_scenario/*.c` (Copilot completions) | none |
 
 ### Java — 5 sources
