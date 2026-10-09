@@ -264,14 +264,6 @@ Nineteen registry packs, grouped here by what they cover:
 | Bandit | Default built-in ruleset |
 | Pylint | All non-security checks suppressed; only security-related message codes enabled |
 
-### CWE attribution
-
-CodeQL, Semgrep, Bandit, Cppcheck and Flawfinder report CWE identifiers natively in their
-structured output. Pylint, Joern and Ikos emit tool-specific message codes or free text, so
-each distinct rule was mapped to a CWE by hand against the MITRE catalogue and the tool
-documentation — 89 rules in total (16 Pylint, 51 Joern, 22 Ikos). The mapping was produced
-independently by three annotators and reconciled to full agreement; see
-`rule_cwe_annotation_table.csv`.
 
 ---
 
